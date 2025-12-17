@@ -1,11 +1,11 @@
 # André Balbi
 
-Software Engineer | Focus on Backend Development and Software Architecture
+##### Software Engineer | Backend Development | Software Architecture
 
 ---
 
 ### Professional Profile
-I am a Software Engineer transitioning into Backend Development, leveraging a strong background in QA Ops, DevOps, and systems automation. My experience includes building scalable internal tools, engineering security plugins, and developing RESTful APIs. I am focused on applying architectural patterns and clean code to solve complex backend challenges.
+I am a Software Engineer transitioning into Backend Development, leveraging a strong background in QA Ops, DevOps, and automation. My experience includes building scalable internal tools, engineering security plugins, and developing RESTful APIs. I am focused on applying architectural patterns and clean code to solve complex backend challenges.
 
 ### Professional Experience (since 2021)
 * **Mid-Level QA Ops Analyst at PrimeUp**: Spearheading code quality and secure coding standards using SonarQube.
