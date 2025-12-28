@@ -28,5 +28,5 @@ I am a Software Engineer transitioning into Backend Development, leveraging a st
 
 ### Contact & Links
 * **LinkedIn**: linkedin.com/in/andre-balbi/
-* **GitHub**: github.com/balbi-uff
+* **GitHub**: github.com/andre-baIbi
 * **Email**: amabalbi@gmail.com
