@@ -3,6 +3,7 @@
 ##### Software Engineer | Backend Development | Software Architecture
 
 ---
+[![roadmap.sh](https://roadmap.sh/card/tall/686d3e449dd30e3103e25c67?variant=dark&roadmaps=backend%2Chtml%2Cgit-github)](https://roadmap.sh)
 
 ### Professional Profile
 I am a Software Engineer transitioning into Backend Development, leveraging a strong background in QA Ops, DevOps, and automation. My experience includes building scalable internal tools, engineering security plugins, and developing RESTful APIs. I am focused on applying architectural patterns and clean code to solve complex backend challenges.
